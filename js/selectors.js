@@ -11,5 +11,5 @@ function firstListItem() {
 }
 
 function lastImageSelector () {
-  $('img:last');
+  return $('img:last');
 }
