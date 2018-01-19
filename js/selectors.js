@@ -13,3 +13,7 @@ function firstListItem() {
 function lastImageSelector () {
   return $('img:last');
 }
+
+function ninjaBabySelector() {
+  return $('')
+}
