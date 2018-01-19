@@ -5,3 +5,7 @@ function paragraphSelector() {
 function divSelector() {
   return $('.pics');
 }
+
+function firstListItem() {
+  $('#pic-list')
+}
