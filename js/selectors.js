@@ -9,3 +9,7 @@ function divSelector() {
 function firstListItem() {
   return $('#pic-list li:first-child');
 }
+
+function lastImageSelector () {
+  $('img:last');
+}
