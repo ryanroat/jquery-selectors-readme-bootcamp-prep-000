@@ -3,5 +3,5 @@ function paragraphSelector() {
 }
 
 function divSelector() {
-  return $('.pics');
+  return $('.pics div');
 }
